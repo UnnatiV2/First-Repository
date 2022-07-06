@@ -1,0 +1,2 @@
+ 1 git init  --bare < repository name> 
+ 2 pwd - gives path info 
